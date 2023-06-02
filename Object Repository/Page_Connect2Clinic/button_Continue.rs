@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Continue</name>
+   <tag></tag>
+   <elementGuidId>4840cff5-a972-4d63-999d-c351d82097da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.primary-cta-button.rounded-pill.mt-2.align-self-center.py-2.px-4.mt-5</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div[2]/div/div/div/div/div/div/form/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fda39875-beb2-43a1-b178-a71ac1821fd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn primary-cta-button rounded-pill mt-2 align-self-center py-2 px-4 mt-5</value>
+      <webElementGuid>4447719a-0d51-405d-9f14-b457d124e01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>2ebe4677-228e-488a-b7e4-584af17efd98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[2]/div[1]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;px-0 mx-0 col-sm-12 col-lg-4 col-md-6 text-center d-flex flex-column align-items-center justify-content-center&quot;]/div[@class=&quot;max-width-restrict px-4 p-2 mb-3&quot;]/div[1]/div[1]/div[@class=&quot;container h-100&quot;]/div[@class=&quot;d-flex align-items-center justify-content-center flex-column h-100&quot;]/div[@class=&quot;w-100 d-flex align-items-center justify-content-center flex-column mt-3&quot;]/form[@class=&quot;d-flex flex-column align-items-center justify-content-center&quot;]/button[@class=&quot;btn primary-cta-button rounded-pill mt-2 align-self-center py-2 px-4 mt-5&quot;]</value>
+      <webElementGuid>effdca2b-e63d-4590-acfa-435bcf7a097e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[2]/div/div/div/div/div/div/form/button</value>
+      <webElementGuid>7553f44d-7efa-4311-b579-93abcaf41e4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms of Use'])[1]/following::button[1]</value>
+      <webElementGuid>085db15e-7629-4070-8357-8348b5c3021c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/following::button[1]</value>
+      <webElementGuid>a3d7d1a3-2842-474e-ba5e-710e11fd0df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/preceding::button[1]</value>
+      <webElementGuid>2ccdf835-f60b-46df-808a-a7a9e5ce5b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[1]/preceding::button[1]</value>
+      <webElementGuid>dbe9b8e9-be3b-4406-bf1c-cbe5ba7e8c92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue']/parent::*</value>
+      <webElementGuid>b6cba4d0-4fda-49e8-a276-cd33ef2789af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>7cb6f488-5ea6-4e0b-89c6-3810471bb056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>973113ba-5606-48f0-8fae-cc4828fb89c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
