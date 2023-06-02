@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_My Account</name>
+   <tag></tag>
+   <elementGuidId>36e30783-4f08-4180-88a0-cc03b8c819d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.right-menu</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top']/div/div/div[9]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>52050567-244c-45d1-bab8-5775562cf091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>right-menu</value>
+      <webElementGuid>7395008d-a963-4664-a248-ce1867f07d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>My Account</value>
+      <webElementGuid>1b7bb955-a4c9-4db5-a688-e1a60e6d7c58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;themobpadding&quot;]/div[@class=&quot;home-header home-header-center row&quot;]/div[@class=&quot;col-lg-1 mob-loginsection col&quot;]/div[@class=&quot;menu-custom-button wrapper-login&quot;]/div[@class=&quot;right-menu&quot;]</value>
+      <webElementGuid>9520f35c-1162-4382-ab96-e1bb1c1608b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top']/div/div/div[9]/div/div</value>
+      <webElementGuid>b0bdd358-32a1-4fb1-bad3-76a5e438e517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found'])[1]/following::div[4]</value>
+      <webElementGuid>b097b7f7-c08c-4dd3-94af-ab6b5ba4d76b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('FAQ', &quot;'&quot;, 'S')])[1]/following::div[11]</value>
+      <webElementGuid>271611f3-91b4-49ab-9d85-69664e6d90d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Now Consult Anywhere, Anytime'])[1]/preceding::div[2]</value>
+      <webElementGuid>d8a72502-3250-4fd0-bc4a-238d47a667a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tap into the Best Virtual Healthcare Network'])[1]/preceding::div[3]</value>
+      <webElementGuid>af8608a0-25c3-463a-986a-ed05c8fba348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='My Account']/parent::*</value>
+      <webElementGuid>6e46146c-681e-4fe2-9b5e-e46fea25e2ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[9]/div/div</value>
+      <webElementGuid>bc5204ad-2411-491c-80ae-a011b713cc9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'My Account' or . = 'My Account')]</value>
+      <webElementGuid>065044c0-51ca-4289-9591-5009bcf06216</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
